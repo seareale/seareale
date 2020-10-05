@@ -1,6 +1,10 @@
-### Hi there 👋
+[![seareale's github stats](https://github-readme-stats.vercel.app/api?username=seareale&show_icons=true&hide_border=true)](https://github.com/seareale)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seareale&layout=compact)](https://github.com/seareale)
+
 
 <!--
+### Hi there 👋
+
 **SeaRealE/seareale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

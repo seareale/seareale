@@ -8,8 +8,7 @@
   </a>
 </p>
 
-[![seareale's github stats](https://github-readme-stats.vercel.app/api?username=seareale&show_icons=true&hide_border=true)](https://github.com/seareale)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seareale&layout=compact)](https://github.com/seareale)
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=seareale&show_icons=true&hide_border=true" alt="seareale's github stats" width="50%"/> <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seareale&layout=compact" alt="Top Langs" width="40%"/>
 
 <!--
 ### Hi there 👋
